@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-####About me
+#### About me
 Hi there, I am Aidan Palmer! I am an aspiring software developer (specializing in computer graphics) currently pursuing my Bachelors in Computer Science and Cognitive Science from Yale University!
 
 
