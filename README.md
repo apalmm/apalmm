@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=apalmm)](https://github.com/anuraghazra/github-readme-stats)
+
 ### :space_invader: About me  
 
 :smiley: Hi there, I am Aidan Palmer! I am an aspiring software developer (specializing in full stack web dev and computer graphics 🙏) currently pursuing my Bachelors in Computer Science and Cognitive Science from Yale University!
