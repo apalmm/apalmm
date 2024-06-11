@@ -2,7 +2,7 @@
 
 ### :space_invader: 🏳️‍🌈 About me  
 
-:smiley: Hi there, I am Aidan Palmer! I am an aspiring software developer (specializing in full stack web dev, product design, and ML 🙏) currently pursuing my Bachelors in Computer Science and Cognitive Science from Yale University!
+:smiley: Hi there, I am Aidan Palmer! I am an aspiring software developer currently pursuing my Bachelors in Computer Science and Cognitive Science from Yale University!
 
 Checkout [Yale Butteries!](https://apps.apple.com/us/app/yale-butteries/id6448767895)
 
