@@ -4,8 +4,6 @@
 
 :smiley: Hi there, I am Aidan Palmer! I am an aspiring software developer currently pursuing my Bachelors in Computer Science and Cognitive Science from Yale University!
 
-Checkout [Yale Butteries!](https://apps.apple.com/us/app/yale-butteries/id6448767895)
-
 <!--
 **apalmm/apalmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
