@@ -2,8 +2,7 @@
 
 ### :space_invader: About me  
 
-:smiley: Hi there, I am Aidan Palmer! I am an aspiring software developer currently pursuing my Bachelors in Computer Science and Cognitive Science from Yale University!
-🔭 I'm currently working on [the Yale Butteries App](https://github.com/YaleComputerSociety/yale-butteries-frontend).
+:smiley: Hi there, I am Aidan Palmer! I am an aspiring software developer / product engineer
 <!--
 **apalmm/apalmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
